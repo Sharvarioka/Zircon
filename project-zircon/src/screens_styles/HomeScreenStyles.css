@@ -1,0 +1,122 @@
+.Home {
+  text-align: center;
+  margin:0;
+}
+
+.home-demo-button{
+   border-color: rgb(33, 33, 33);
+   border-width: 1px;
+   background-color: #ffffff;
+  width:150px;
+  height:50px;
+  border-radius: 5px;
+   color: black;
+   align-content: center;
+   font-size: 16px;
+   font-weight: bold;
+   border-style: solid;
+   text-align: center;
+}
+
+.home-sign-up-button{
+ background-color:#068932;
+ width:140px;
+  height:50px;
+  border-radius: 5px;
+  color: #ffffff;
+  align-content: center;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+}
+.bg-color-light-green{
+  background-color:rgb(244, 248, 247);
+}
+
+.home-screen1-intro, .home-screen1-hiring, .home-screen1-community, .home-screen1-interview{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding:20px
+}
+
+.home-screen1-about, .home-screen1-links{
+  display:flex;
+  flex-direction: row;
+  padding:20px;
+}
+
+.home-about-left-content{
+  width:50%;
+  padding: 50px 20px;
+  text-align: left;
+}
+
+.home-intro-title{
+  font-size: 64px;
+  line-height: 1.2;
+  max-width:780px;
+  word-wrap: inherit;
+}
+
+.home-intro-text, .hiring-text{
+  max-width:780px;
+  word-wrap: inherit;
+}
+
+.home-screen1-buttons, .hiring-nav{
+  display:flex;
+  justify-content: space-evenly; 
+  font-size:16px;
+}
+
+.hiring-intro-title{
+  font-size: 64px;
+  font-weight: 200;
+}
+
+.home-about-title{
+  font-size: 36px;
+  font-weight: 200;
+  line-height: 0;
+}
+
+
+.hiring-intro-subtitle{
+  font-size: 60px;
+  font-weight: 200;
+  color:#068932;
+}
+
+.home-about-subtitle{
+  font-size: 36px;
+  font-weight: 200;
+  color:#068932;
+}
+
+
+.links-community-button{
+ background-color:#068932;
+ width:200px;
+  height:50px;
+  border-radius: 5px;
+  color: #ffffff;
+  align-content: center;
+  font-size: 16px;
+  font-weight: bold;
+  padding:5px;
+  margin:50px 0;
+  text-align: center;
+}
+
+.links-demo-button{
+ background-color:#068932;
+ width:150px;
+  height:50px;
+  border-radius: 5px;
+  color: #ffffff;
+  align-content: center;
+  font-size: 16px;
+  font-weight: bold;
+}

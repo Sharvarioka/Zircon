@@ -1,0 +1,33 @@
+.sign-up-content{
+  display: flex;
+  flex-wrap: wrap;
+  width: 40%;
+  margin: 50px;
+}
+
+.sign-up-button{
+  background-color:#068932;
+ width:180px;
+  height:50px;
+  border-radius: 10px;
+  color: #ffffff;
+  align-content: center;
+  font-size: 16px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.opt{
+  width:400px;
+  padding: 20px;
+  margin-top: 20px;
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 8px;
+}
+
+.or-div{
+  display: flex;
+  flex-direction:column;
+}

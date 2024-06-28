@@ -1,0 +1,106 @@
+
+.hr_site-header {
+  width:100%;
+}
+
+.hr-ribbon .container,
+.hr_site-header .hr-ribbon .container{
+  display: block;
+  position: relative;        
+}
+
+.hr-ribbon{
+  background-color: #068932;
+  position: relative;
+  color:#ffffff;
+  font-weight: bold;
+
+}
+.hr_ribbon-notifications{
+  position: relative;
+  height: 40px;
+}
+
+.hr_ribbon-notification{
+  position: absolute;
+  line-height: 40px;
+}
+
+
+.header-top {
+  height: 40px;
+  background: #050C1B linear-gradient(90deg, #050C1B, #1A4055 15%, #1A4055 35%, #050C1B 50%);
+  color:#ffffff;
+  position: relative;
+  
+}
+
+.menu-main-navigation{
+display:flex;
+flex-wrap: wrap;
+justify-content: space-between;
+width: 100%;
+align-items: center;
+}
+
+.menu-top-navigation-menu{
+  position: absolute;
+  right:2rem;
+  
+}
+
+.top-nativation-menu-items{
+  display: flex;
+  margin:0;
+  padding: 9px 0;
+}
+
+.nav-menu-item{
+padding-right:1rem
+}
+
+
+ul{
+  list-style: none;
+}
+#header-sticky{
+  background-color: #ffffff;
+  /* padding: 1rem; */
+}
+
+.header-nav{
+display: flex;
+justify-content: space-around;
+align-items: center;
+/* width: 100%; */
+}
+
+.menu-list-item{
+  font-weight: bold;
+  font-size: 18px;
+}
+.container{
+  width:100%;
+}
+
+.nav-demo-button{
+   background-color:#F7F7F7;
+  width:150px;
+  height:50px;
+  border-radius: 10px;
+   color: #000000;
+   align-content: center;
+   font-size: 16px;
+   text-align: center;
+}
+
+.nav-sign-up-button{
+ background-color:#068932;
+ width:90px;
+  height:50px;
+  border-radius: 10px;
+  color: #ffffff;
+  align-content: center;
+  font-size: 16px;
+  text-align: center;
+}
